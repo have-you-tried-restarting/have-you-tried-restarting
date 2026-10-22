@@ -4,9 +4,9 @@ I build small, friendly tools around Claude and games. Mostly Python, TypeScript
 
 ## ⭐ Featured project
 
-<a href="https://github.com/have-you-tried-restarting/claude-usage-pet">
-  <img src="https://github.com/have-you-tried-restarting/claude-usage-pet/raw/main/screenshots/hero.gif" alt="Claude usage pet" width="360" align="right">
-</a>
+<p align="center">
+  <a href="https://github.com/have-you-tried-restarting/claude-usage-pet"><img src="assets/showcase.gif" alt="Claude usage pet showcase" width="700"></a>
+</p>
 
 ### [Claude usage pet](https://github.com/have-you-tried-restarting/claude-usage-pet)
 
@@ -16,8 +16,6 @@ No dependencies, no install: just Python and a double-click.
 
 [![Stars](https://img.shields.io/github/stars/have-you-tried-restarting/claude-usage-pet?style=social)](https://github.com/have-you-tried-restarting/claude-usage-pet)
 [![Release](https://img.shields.io/github/v/release/have-you-tried-restarting/claude-usage-pet)](https://github.com/have-you-tried-restarting/claude-usage-pet/releases/latest)
-
-<br clear="right">
 
 ## 🛠 Tools
 
