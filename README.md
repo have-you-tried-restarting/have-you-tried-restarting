@@ -32,3 +32,10 @@ and acts out what Claude Code is doing. No dependencies.
   <a href="https://github.com/have-you-tried-restarting/claude-usage-pet/releases/latest"><img src="https://img.shields.io/github/v/release/have-you-tried-restarting/claude-usage-pet?style=for-the-badge&color=D97757&label=download" alt="Download"></a>
   <a href="https://github.com/have-you-tried-restarting/claude-usage-pet"><img src="https://img.shields.io/github/stars/have-you-tried-restarting/claude-usage-pet?style=for-the-badge&color=D97757" alt="Stars"></a>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="profile-3d-contrib/profile-green.svg" alt="3D contribution graph" width="760">
+  </picture>
+</p>
