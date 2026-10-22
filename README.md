@@ -1,29 +1,20 @@
-# Hi, I'm astro 👋
+# astro
 
-I build small, friendly tools around Claude and games. Mostly Python, TypeScript and GDScript.
+*Have you tried restarting?*
 
-## ⭐ Featured project
+I make quiet little machines that watch over other machines.
 
 <p align="center">
-  <a href="https://github.com/have-you-tried-restarting/claude-usage-pet"><img src="assets/showcase.gif" alt="Claude usage pet showcase" width="700"></a>
+  <a href="https://github.com/have-you-tried-restarting/claude-usage-pet"><img src="assets/showcase.gif" alt="Claude usage pet" width="700"></a>
 </p>
 
 ### [Claude usage pet](https://github.com/have-you-tried-restarting/claude-usage-pet)
 
-A tiny pixel Claude that lives on your Windows taskbar. It shows your **5-hour and weekly plan usage** and context window in a bubble, and puts on a wizard hat to act out what Claude Code is doing.
-
-No dependencies, no install: just Python and a double-click.
+A small creature on your taskbar. It counts what you spend, and it knows when Claude is working.
 
 [![Stars](https://img.shields.io/github/stars/have-you-tried-restarting/claude-usage-pet?style=social)](https://github.com/have-you-tried-restarting/claude-usage-pet)
-[![Release](https://img.shields.io/github/v/release/have-you-tried-restarting/claude-usage-pet)](https://github.com/have-you-tried-restarting/claude-usage-pet/releases/latest)
+[![Release](https://img.shields.io/github/v/release/have-you-tried-restarting/claude-usage-pet?color=555)](https://github.com/have-you-tried-restarting/claude-usage-pet/releases/latest)
 
-## 🛠 Tools
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757)
-
-## 📫 Say hi
-
-Found a bug or have an idea? [Open an issue](https://github.com/have-you-tried-restarting/claude-usage-pet/issues/new/choose). If something I made helped you, a ⭐ is the best thank-you.
+More is being built. Not everything is public yet.
