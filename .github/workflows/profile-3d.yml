@@ -21,5 +21,6 @@ jobs:
       - run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          sed -i 's/class="fill-bg"/class="fill-bg" style="fill:none"/' profile-3d-contrib/*.svg
           git add -A profile-3d-contrib
           git diff --staged --quiet || (git commit -m "-" && git push)
