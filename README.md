@@ -1,6 +1,6 @@
 <h1 align="center">have you tried restarting?</h1>
 
-<p align="center">I build small desktop tools for Claude users.</p>
+<p align="center">Your 5-hour limit has a personality now.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
