@@ -34,6 +34,10 @@ and acts out what Claude Code is doing. No dependencies.
 </p>
 
 <p align="center">
+Liked something here? A <a href="https://github.com/have-you-tried-restarting/claude-usage-pet">⭐ star</a> and a <a href="https://github.com/have-you-tried-restarting">follow</a> help others find it. Thank you!
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
     <img src="profile-3d-contrib/profile-green.svg" alt="3D contribution graph" width="760">
